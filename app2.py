@@ -120,5 +120,5 @@ if st.button("Prédire"):
         st.success("✅ La personne possède probablement un compte bancaire.")
     else:
         st.error("❌ La personne ne possède probablement pas de compte bancaire.")
->>>>>>> e924131 (Sauvegarde avant merge)
+
 
