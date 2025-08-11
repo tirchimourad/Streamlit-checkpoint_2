@@ -59,8 +59,6 @@ if st.button("Prédire"):
         st.success("✅ La personne possède probablement un compte bancaire.")
     else:
         st.error("❌ La personne ne possède probablement pas de compte bancaire.")
-
-=======
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -123,3 +121,4 @@ if st.button("Prédire"):
     else:
         st.error("❌ La personne ne possède probablement pas de compte bancaire.")
 >>>>>>> e924131 (Sauvegarde avant merge)
+
